@@ -32,7 +32,9 @@ Instructions:
 - Add this folder to the MATLAB path.
 - Run the MATLAB script create_figures.m which will produce Figures 2 and 3 in the main text. Note that the parameter values sim = 1e3 and P = 1 are set as default to increase the computational speed of the simulations, which will result in minor differences between the produced figures and the figures in the manuscript. 
 
-Expected run time on a "normal" desktop computer: ~20 minutes
+Expected run time on a "normal" desktop computer: ~20 minutes.
+
+This project is licensed under the terms of the MIT license.
 
 
 
