@@ -1,4 +1,4 @@
-# Repository for [The risk of SARS-CoV-2 outbreaks in low prevalence settings following the removal of travel restrictions](https://doi.org/10.1101/2021.05.21.21257589) #
+# Repository for [The risk of SARS-CoV-2 outbreaks in low prevalence settings following the removal of travel restrictions](Published in Communications Medicine) #
 
 Code author: Rahil Sachak-Patwa, University of Oxford
 Last edit: 02/06/21
